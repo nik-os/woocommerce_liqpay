@@ -1,4 +1,3 @@
-liqpay
-======
+#liqpay
 
-LiqPay Payment Gateway for Woocommerce 2.XX
+Woocommerce 2 - LiqPay Payment Gateway
