@@ -3,7 +3,7 @@
 Plugin Name: WooCommerce Liqpay 
 Plugin URI: http://woothemes.com/woocommerce
 Description: Extends WooCommerce with an Liqpay gateway.
-Version: 2.01
+Version: 0.01
 Author: Nikita Kotenko
 Author URI: http://samsonos.com
 */
